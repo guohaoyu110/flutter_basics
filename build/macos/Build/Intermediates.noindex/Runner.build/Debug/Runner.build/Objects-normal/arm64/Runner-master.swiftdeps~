@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "87d3ed4b20580e8cb9efd62d13423ac4d634654a7581ccb703c5a78eb67fe980"
+build_start_time: [1677923186, 655629158]
+build_end_time: [1677923186, 674407005]
+inputs:
+  "/Users/haoyuguo/Desktop/learn_flutter/flutter_basics/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1677923176, 132140636]
+  "/Users/haoyuguo/Desktop/learn_flutter/flutter_basics/macos/Runner/AppDelegate.swift": !private [1677910890, 571233749]
+  "/Users/haoyuguo/Desktop/learn_flutter/flutter_basics/macos/Runner/MainFlutterWindow.swift": !private [1677910890, 573126316]
